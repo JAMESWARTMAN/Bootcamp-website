@@ -190,6 +190,10 @@
        font-weight: 700;
    }
    
+   .footer-links {
+       font-size: 1.8rem;
+   }
+   
    @media (max-width:767px) {
        #footer h5 {
            padding-left: 0;
