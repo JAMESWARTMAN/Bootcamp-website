@@ -24,6 +24,11 @@
    .navbar-brand {
        font-size: 2rem;
    }
+   
+   .navbar-toggler {
+       color: #fff;
+       background-color: #fff;
+   }
    /* hero Section */
    
    span {
@@ -36,9 +41,9 @@
    }
    
    .hero-img {
-       border-radius: 3%;
+       border-radius: 5%;
        object-fit: contain;
-       margin-left: 6rem;
+       margin-left: 8rem;
    }
    
    .enrollment-btn {
@@ -83,8 +88,8 @@
        padding: 5% 8%;
    }
    
-   .learn-img {
-       width: 75%;
+   .learn-content {
+       margin: 3% 6%;
    }
    
    .learn-react {
@@ -200,6 +205,10 @@
            border-left: transparent;
            padding-bottom: 0px;
            margin-bottom: 10px;
+       }
+       .learn-content {
+           margin-top: 4rem;
+           margin-bottom: 4rem;
        }
    }
    
